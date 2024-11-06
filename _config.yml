@@ -1,0 +1,3 @@
+
+exclude:
+  - src/component/assets/lib/
